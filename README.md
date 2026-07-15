@@ -1,4 +1,4 @@
-### 📊🐍 Computational Vision (CV)
+## 📊🐍 Computational Vision (CV)
 > This repository serves as a centralized collection of **Python-based algorithms and implementations for Computational Vision (CV)**.
 > In addition to the codes, links and references to others resources.
 
