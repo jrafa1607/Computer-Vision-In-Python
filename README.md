@@ -30,33 +30,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 
 ---
 
-### 📂 Available Algorithms
-
-The repository is structured around practical implementations categorized by core computer vision concepts:
-
-#### 1. Basic Processing & Analysis
-* **[Analyzing BMP Image](Algorithms/Analyzing_BMP_Image.ipynb)** — Analysis and manipulation of BMP image formats.
-* **[Image Color Spaces and Thresholding](Algorithms/Image_Color_Spaces_and_Thresholding.ipynb)** — Exploring color space conversions and image thresholding techniques.
-* **[Image Histogram](Algorithms/Image_Histogram.ipynb)** — Computing and analyzing pixel intensity distributions.
-
-#### 2. Filtering & Morphology
-* **[Filters And Effects](Algorithms/Filters_And_Effects.ipynb)** — Application of digital filters and visual image effects.
-* **[Edge Detection](Algorithms/Edge_Detection.ipynb)** — Techniques for identifying structural boundaries in images.
-* **[Erosion and Dilation](Algorithms/Erosion_and_Dilation.ipynb)** — Fundamental morphological operations for image processing.
-
-#### 3. Feature Extraction & Shape Analysis
-* **[Connected Components](Algorithms/Connected_Components.ipynb)** — Labeling and analyzing connected regions in binary images.
-* **[Hu Moments](Algorithms/Hu_Moments.ipynb)** — Shape descriptor extraction using invariant image moments.
-* **[Template Matching](Algorithms/Template_Matching.ipynb)** — Locating and matching patterns against a template image.
-
-#### 4. Advanced Applications & Machine Learning
-* **[Fingerprint Improve Quality](Algorithms/Fingerprint_Improve_Quality.ipynb)** — Preprocessing and enhancement techniques for fingerprint images.
-* **[HOG and SVM to Detect People Running](Algorithms/HOG_and_SVM_to_Detect_People_Running.ipynb)** — Pedestrian action detection using Histogram of Oriented Gradients (HOG) and Support Vector Machines (SVM).
-
----
-
 ### 🚀 How to Use
-
 1. Browse through the **`Algorithms/`** directory.
 2. Click on any notebook (`.ipynb`) of your choice.
 3. Open it directly in **Google Colab** to execute, tweak, and experiment with the code in real time.
