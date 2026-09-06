@@ -30,7 +30,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 
 ---
 
-### 🚀 How to Use
+#### 🚀 How to Use
 1. Browse through the **`Algorithms/`** directory.
 2. Click on any notebook (`.ipynb`) of your choice.
 3. Open it directly in **Google Colab** to execute, tweak, and experiment with the code in real time.
@@ -38,7 +38,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 
 ---
 
-⚖️ Intellectual Property (IP) Notice
+#### ⚖️ Intellectual Property (IP) Notice
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. 
 Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
