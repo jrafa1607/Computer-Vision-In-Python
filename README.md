@@ -34,18 +34,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 1. Browse through the **`Algorithms/`** directory.
 2. Click on any notebook (`.ipynb`) of your choice.
 3. Open it directly in **Google Colab** to execute, tweak, and experiment with the code in real time.
-
----
-
-### 🤝 Contributing
-
-Contributions, suggestions, and improvements are always welcome! If you want to add a new algorithm or optimize an existing one:
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingAlgorithm`).
-3. Commit your Changes (`git commit -m 'Add some AmazingAlgorithm'`).
-4. Push to the Branch (`git push origin feature/AmazingAlgorithm`).
-5. Open a Pull Request.
+4. [Optional] Open it directly in **Google Colab** with Github, using this URL: https://github.com/jrafa1607/Computer-Vision-In-Python
 
 ---
 
