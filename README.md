@@ -34,7 +34,7 @@ All algorithms were developed and tested using **Google Colab** notebooks (`.ipy
 1. Browse through the **`Algorithms/`** directory.
 2. Click on any notebook (`.ipynb`) of your choice.
 3. Open it directly in **Google Colab** to execute, tweak, and experiment with the code in real time.
-4. [Optional] Open it directly in **Google Colab** with Github, using this URL: https://github.com/jrafa1607/Computer-Vision-In-Python
+4. [Optional] Open it directly in **Google Colab** with Github, using this [URL](https://github.com/jrafa1607/Computer-Vision-In-Python)
 
 ---
 
