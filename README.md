@@ -10,7 +10,7 @@ A centralized collection of **Python-based algorithms and implementations for Co
 
 #### 📖 Overview
 Welcome to **Computer Vision (CV)**! This repository provides a structured toolkit of foundational and advanced computer vision techniques implemented in **Python**. 
-Designed for students, researchers, and developers, the project offers clean, reproducible, and easily executable environments to explore image processing and machine learning models.
+Designed for students, researchers, and developers, the project offers clean, reproducible, and easily executable environments to explore Image Processing and ML Models.
 
 ---
 
